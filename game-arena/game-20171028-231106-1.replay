@@ -1,0 +1,380 @@
+{
+    "moves": [
+        {
+            "type": "ForwardMove",
+            "startIndex": 32,
+            "endIndex": 28
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 18,
+            "endIndex": 22
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 38,
+            "endIndex": 32
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 19,
+            "endIndex": 23
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 28,
+            "endIndex": 19
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 14,
+            "endIndex": 23
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 31,
+            "endIndex": 27
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 22,
+            "endIndex": 31
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 37,
+            "endIndex": 26
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 20,
+            "endIndex": 25
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 36,
+            "endIndex": 31
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 16,
+            "endIndex": 21
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 42,
+            "endIndex": 38
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 15,
+            "endIndex": 20
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 47,
+            "endIndex": 42
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 13,
+            "endIndex": 18
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 33,
+            "endIndex": 29
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 18,
+            "endIndex": 22
+        },
+        {
+            "type": "ComboCaptureMove",
+            "moves": [
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 29,
+                    "endIndex": 18
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 18,
+                    "endIndex": 27
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 27,
+                    "endIndex": 16
+                }
+            ]
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 10,
+            "endIndex": 14
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 34,
+            "endIndex": 29
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 8,
+            "endIndex": 13
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 39,
+            "endIndex": 33
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 13,
+            "endIndex": 19
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 41,
+            "endIndex": 36
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 25,
+            "endIndex": 30
+        },
+        {
+            "type": "ComboCaptureMove",
+            "moves": [
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 35,
+                    "endIndex": 24
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 24,
+                    "endIndex": 15
+                }
+            ]
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 4,
+            "endIndex": 10
+        },
+        {
+            "type": "ComboCaptureMove",
+            "moves": [
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 15,
+                    "endIndex": 4
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 4,
+                    "endIndex": 13
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 13,
+                    "endIndex": 24
+                }
+            ]
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 17,
+            "endIndex": 21
+        },
+        {
+            "type": "ComboCaptureMove",
+            "moves": [
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 26,
+                    "endIndex": 17
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 17,
+                    "endIndex": 8
+                }
+            ]
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 3,
+            "endIndex": 12
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 32,
+            "endIndex": 28
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 2,
+            "endIndex": 8
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 42,
+            "endIndex": 37
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 14,
+            "endIndex": 19
+        },
+        {
+            "type": "ComboCaptureMove",
+            "moves": [
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 24,
+                    "endIndex": 13
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 13,
+                    "endIndex": 2
+                }
+            ]
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 12,
+            "endIndex": 18
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 2,
+            "endIndex": 30
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 18,
+            "endIndex": 22
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 28,
+            "endIndex": 17
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 11,
+            "endIndex": 22
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 30,
+            "endIndex": 24
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 5,
+            "endIndex": 10
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 43,
+            "endIndex": 39
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 7,
+            "endIndex": 12
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 31,
+            "endIndex": 26
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 12,
+            "endIndex": 17
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 29,
+            "endIndex": 23
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 22,
+            "endIndex": 28
+        },
+        {
+            "type": "ComboCaptureMove",
+            "moves": [
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 33,
+                    "endIndex": 22
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 22,
+                    "endIndex": 11
+                }
+            ]
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 6,
+            "endIndex": 17
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 24,
+            "endIndex": 15
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 1,
+            "endIndex": 7
+        },
+        {
+            "type": "CaptureMove",
+            "startIndex": 15,
+            "endIndex": 4
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 7,
+            "endIndex": 12
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 38,
+            "endIndex": 32
+        },
+        {
+            "type": "ForwardMove",
+            "startIndex": 17,
+            "endIndex": 21
+        },
+        {
+            "type": "ComboCaptureMove",
+            "moves": [
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 26,
+                    "endIndex": 17
+                },
+                {
+                    "type": "CaptureMove",
+                    "startIndex": 17,
+                    "endIndex": 8
+                }
+            ]
+        }
+    ],
+    "gameOverReason": "white_won"
+}

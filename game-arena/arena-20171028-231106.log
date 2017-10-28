@@ -1,0 +1,62 @@
+2017-10-28 23:11:07,295 |     INFO | Starting game 1 of 1, white: [http://localhost:5000], black: [http://localhost:5000]
+2017-10-28 23:11:10,423 |     INFO | Move   1: white plays Move: 32 -> 28
+2017-10-28 23:11:11,303 |     INFO | Move   1: black plays Move: 18 -> 22
+2017-10-28 23:11:11,919 |     INFO | Move   2: white plays Move: 38 -> 32
+2017-10-28 23:11:12,672 |     INFO | Move   2: black plays Move: 19 -> 23
+2017-10-28 23:11:13,286 |     INFO | Move   3: white plays Capture: 28 -> 19
+2017-10-28 23:11:13,931 |     INFO | Move   3: black plays Capture: 14 -> 23
+2017-10-28 23:11:14,539 |     INFO | Move   4: white plays Move: 31 -> 27
+2017-10-28 23:11:15,308 |     INFO | Move   4: black plays Capture: 22 -> 31
+2017-10-28 23:11:15,910 |     INFO | Move   5: white plays Capture: 37 -> 26
+2017-10-28 23:11:16,503 |     INFO | Move   5: black plays Move: 20 -> 25
+2017-10-28 23:11:17,133 |     INFO | Move   6: white plays Move: 36 -> 31
+2017-10-28 23:11:17,768 |     INFO | Move   6: black plays Move: 16 -> 21
+2017-10-28 23:11:18,390 |     INFO | Move   7: white plays Move: 42 -> 38
+2017-10-28 23:11:19,057 |     INFO | Move   7: black plays Move: 15 -> 20
+2017-10-28 23:11:19,669 |     INFO | Move   8: white plays Move: 47 -> 42
+2017-10-28 23:11:20,290 |     INFO | Move   8: black plays Move: 13 -> 18
+2017-10-28 23:11:20,921 |     INFO | Move   9: white plays Move: 33 -> 29
+2017-10-28 23:11:21,547 |     INFO | Move   9: black plays Move: 18 -> 22
+2017-10-28 23:11:22,149 |     INFO | Move  10: white plays Combo x3: [Capture: 29 -> 18, Capture: 18 -> 27, Capture: 27 -> 16]
+2017-10-28 23:11:22,748 |     INFO | Move  10: black plays Move: 10 -> 14
+2017-10-28 23:11:23,351 |     INFO | Move  11: white plays Move: 34 -> 29
+2017-10-28 23:11:23,951 |     INFO | Move  11: black plays Move: 8 -> 13
+2017-10-28 23:11:24,558 |     INFO | Move  12: white plays Move: 39 -> 33
+2017-10-28 23:11:25,160 |     INFO | Move  12: black plays Move: 13 -> 19
+2017-10-28 23:11:25,763 |     INFO | Move  13: white plays Move: 41 -> 36
+2017-10-28 23:11:26,371 |     INFO | Move  13: black plays Move: 25 -> 30
+2017-10-28 23:11:26,996 |     INFO | Move  14: white plays Combo x2: [Capture: 35 -> 24, Capture: 24 -> 15]
+2017-10-28 23:11:27,595 |     INFO | Move  14: black plays Move: 4 -> 10
+2017-10-28 23:11:28,194 |     INFO | Move  15: white plays Combo x3: [Capture: 15 -> 4, Capture: 4 -> 13, Capture: 13 -> 24]
+2017-10-28 23:11:28,780 |     INFO | Move  15: black plays Move: 17 -> 21
+2017-10-28 23:11:29,379 |     INFO | Move  16: white plays Combo x2: [Capture: 26 -> 17, Capture: 17 -> 8]
+2017-10-28 23:11:29,962 |     INFO | Move  16: black plays Capture: 3 -> 12
+2017-10-28 23:11:30,565 |     INFO | Move  17: white plays Move: 32 -> 28
+2017-10-28 23:11:31,173 |     INFO | Move  17: black plays Move: 2 -> 8
+2017-10-28 23:11:31,759 |     INFO | Move  18: white plays Move: 42 -> 37
+2017-10-28 23:11:32,341 |     INFO | Move  18: black plays Move: 14 -> 19
+2017-10-28 23:11:32,912 |     INFO | Move  19: white plays Combo x2: [Capture: 24 -> 13, Capture: 13 -> 2]
+2017-10-28 23:11:33,477 |     INFO | Move  19: black plays Move: 12 -> 18
+2017-10-28 23:11:34,043 |     INFO | Move  20: white plays Move: 2 -> 30
+2017-10-28 23:11:34,619 |     INFO | Move  20: black plays Move: 18 -> 22
+2017-10-28 23:11:35,199 |     INFO | Move  21: white plays Capture: 28 -> 17
+2017-10-28 23:11:35,790 |     INFO | Move  21: black plays Capture: 11 -> 22
+2017-10-28 23:11:36,382 |     INFO | Move  22: white plays Move: 30 -> 24
+2017-10-28 23:11:36,977 |     INFO | Move  22: black plays Move: 5 -> 10
+2017-10-28 23:11:37,552 |     INFO | Move  23: white plays Move: 43 -> 39
+2017-10-28 23:11:38,125 |     INFO | Move  23: black plays Move: 7 -> 12
+2017-10-28 23:11:38,712 |     INFO | Move  24: white plays Move: 31 -> 26
+2017-10-28 23:11:39,298 |     INFO | Move  24: black plays Move: 12 -> 17
+2017-10-28 23:11:39,890 |     INFO | Move  25: white plays Move: 29 -> 23
+2017-10-28 23:11:40,458 |     INFO | Move  25: black plays Move: 22 -> 28
+2017-10-28 23:11:41,033 |     INFO | Move  26: white plays Combo x2: [Capture: 33 -> 22, Capture: 22 -> 11]
+2017-10-28 23:11:41,630 |     INFO | Move  26: black plays Capture: 6 -> 17
+2017-10-28 23:11:42,196 |     INFO | Move  27: white plays Move: 24 -> 15
+2017-10-28 23:11:42,777 |     INFO | Move  27: black plays Move: 1 -> 7
+2017-10-28 23:11:43,357 |     INFO | Move  28: white plays Capture: 15 -> 4
+2017-10-28 23:11:43,940 |     INFO | Move  28: black plays Move: 7 -> 12
+2017-10-28 23:11:44,515 |     INFO | Move  29: white plays Move: 38 -> 32
+2017-10-28 23:11:45,088 |     INFO | Move  29: black plays Move: 17 -> 21
+2017-10-28 23:11:45,659 |     INFO | Move  30: white plays Combo x2: [Capture: 26 -> 17, Capture: 17 -> 8]
+2017-10-28 23:11:46,213 |     INFO | Game over: white won
+2017-10-28 23:11:47,866 |     INFO | Game saved to game-20171028-231106-1.replay
