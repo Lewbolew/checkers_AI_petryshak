@@ -123,9 +123,10 @@ def run_competition(args):
         game_history.append((moves, game_over_reason))
 
         # Save game for future replay.
-        game_filename = 'game-{0}-{1}.replay'.format(run_timestamp, game_num + 1)
-        save_game(moves, game_over_reason, game_filename)
-        logger.info('Game saved to {0}'.format(game_filename))
+
+        # game_filename = 'game-{0}-{1}.replay'.format(run_timestamp, game_num + 1)
+        # save_game(moves, game_over_reason, game_filename)
+        # logger.info('Game saved to {0}'.format(game_filename))
 
     # Print the overall summary from all games.
     print('{0} Summary {0}'.format('-' * 25))
